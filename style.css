@@ -831,15 +831,18 @@ details[open]::before {
   }
 }
 
-@media (max-width: 432px)
+@media (max-width: 432px){
 .headerCover_r {
     left: 283px;
+  }
 }
-@media (max-width: 380px)
+@media (max-width: 380px){
 .headerCover_r {
     left: 246px;
+  }
 }
-@media (max-width: 342px)
+@media (max-width: 342px){
 .headerCover_r {
     left: 218px;
+  }
 }
