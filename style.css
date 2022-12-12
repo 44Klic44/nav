@@ -236,7 +236,7 @@ li {
 .format__photo::after {
   content: "";
   position: absolute;
-  background-image: url(/img/format/photo.png);
+  background-image: url(./img/format/photo.png);
   background-repeat: no-repeat;
   width: 470px;
   height: 322px;
@@ -322,7 +322,7 @@ li {
 }
 
 .joinus {
-  background-image: url(/img/backphotonout.png);
+  background-image: url(./img/backphotonout.png);
   background-repeat: no-repeat;
   margin-bottom: 200px;
   background-color: white;
